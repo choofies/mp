@@ -5,3 +5,5 @@
 /.vs
 /Slime-MP/.vs/Slime-MP
 /Slime-MP/Slime-MP/obj
+/Slime-MP/Slime-Dedicated-Server/obj
+/Slime-MP/Slime-MP/bin/Debug/netstandard2.0
